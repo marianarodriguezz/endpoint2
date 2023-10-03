@@ -1,5 +1,5 @@
-[
-    {
+ { "articles":[
+   {
         "nombre": "Unbranded Cotton Shoes",
         "descripcion": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
         "precio": "15.00",
@@ -69,4 +69,5 @@
         "urlImagen": "http://loremflickr.com/640/480/technics",
         "id": "14"
     }
-]
+] 
+}  
